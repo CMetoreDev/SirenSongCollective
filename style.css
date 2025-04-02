@@ -1,3 +1,10 @@
+* {
+    
+}
+#socials {
+    list-style-type: none;
+}
+
 #temp-notice {
     text-align: center;
 }
